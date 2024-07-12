@@ -5,7 +5,19 @@ public class Pessoa {
 	
 	private String name;
 	
-	private string sobrenome;
+	private String sobrenome;
+	
+	private int idade;
+	
+	
+
+	public int getIdade() {
+		return idade;
+	}
+
+	public void setIdade(int idade) {
+		this.idade = idade;
+	}
 
 	public String getName() {
 		return name;
@@ -15,11 +27,11 @@ public class Pessoa {
 		this.name = name;
 	}
 
-	public string getSobrenome() {
+	public String getSobrenome() {
 		return sobrenome;
 	}
 
-	public void setSobrenome(string sobrenome) {
+	public void setSobrenome(String sobrenome) {
 		this.sobrenome = sobrenome;
 	}
 		
