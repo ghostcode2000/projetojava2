@@ -13,7 +13,7 @@ public class Pessoa {
 	
 	private Date dataCasdastro;
 	
-	private String nome;
+
 
 	public int getDataNascimento() {
 		return dataNascimento;
