@@ -12,6 +12,8 @@ public class Pessoa {
 	private int dataNascimento;
 	
 	private Date dataCasdastro;
+	
+	private String nome;
 
 	public int getDataNascimento() {
 		return dataNascimento;
