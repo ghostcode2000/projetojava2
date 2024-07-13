@@ -11,7 +11,7 @@ public class Pessoa {
 	
 	private int dataNascimento;
 	
-	private Date dataNascimento2;
+	
 
 	public int getDataNascimento() {
 		return dataNascimento;
